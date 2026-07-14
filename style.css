@@ -13,7 +13,11 @@ font-family:lekton;
   
 }
 
-.pdf {width:400px;}
+.pdf {width:600px;}
+a {border-radius:50vw;
+   background:blue;
+   color:white;
+   text-decoration:none;}
 
 @media only screen and (max-width: 490px) {
 
