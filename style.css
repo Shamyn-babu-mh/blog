@@ -18,7 +18,9 @@ font-family:lekton;
 a {border-radius:50vw;
    background:blue;
    color:white;
-   text-decoration:none;}
+   text-decoration:none;
+  position:fixed;
+  bottom:2vh;}
 
 @media only screen and (max-width: 490px) {
 
