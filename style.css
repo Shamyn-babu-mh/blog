@@ -16,12 +16,14 @@ font-family:lekton;
 .pdf {width:600px;
      height:300px;}
 a {border-radius:50vw;
-   background:blue;
-   color:white;
+   background:color-mix(in srgb, var(--secondary-color) 20%, transparent);
+   
    text-decoration:none;
   position:fixed;
   bottom:2vh;
   padding:3vw;}
+
+a:hover {background:white;}
 
 @media only screen and (max-width: 490px) {
 
