@@ -16,7 +16,7 @@ font-family:lekton;
 .pdf {width:600px;
      height:300px;}
 a {border-radius:50vw;
-   background:color-mix(in srgb, var(--secondary-color) 20%, transparent);
+   background:crimson;
    
    text-decoration:none;
   position:fixed;
