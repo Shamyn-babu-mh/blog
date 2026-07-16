@@ -29,5 +29,7 @@ a:hover {background:white;}
 
   .pdf {width:100vw;
        }
-  a {padding:3vh;}
+  a {padding:3vh;
+    font-style:bold;
+    }
 }
