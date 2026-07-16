@@ -4,8 +4,12 @@
 
 * {
 font-family:lekton;
-  background:var(--primary-color);
+  background:var(--primary-color;
+  margin:0;
+  
 }
+
+h1, h2, p {margin:auto;}
 
 :root {
   --primary-color: #f3f6fc;
@@ -32,6 +36,7 @@ a:hover {box-shadow: 4px 4px 10px 2px blue;}
         margin:0;
        }
   a {padding:3vh;
-    font-weight: 800;
+    
+     margin:0;
     }
 }
