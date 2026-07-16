@@ -28,6 +28,7 @@ a:hover {background:white;}
 @media only screen and (max-width: 490px) {
 
   .pdf {width:100vw;
+        margin:0;
        }
   a {padding:3vh;
     font-style:bold;
