@@ -17,6 +17,13 @@ font-family:lekton;
   
 }
 
+#contact {position:fixed;
+  right:0;
+  top:10px;
+  
+  }
+
+
 .pdf {width:600px;
      height:300px;}
 #game {border-radius:50vw;
