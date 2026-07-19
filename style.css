@@ -31,14 +31,14 @@ right:0;
 display:none;
         padding:20px;
           font-size:20px;
-       background:color-mix(in srgb, var(--secondary-color) 90%, transparent);}
+       box-shadow: 4px 4px 10px 2px blue;}
 
 #contact {position:fixed;
   right:0;
   top:10px;
           padding:20px;
           font-size:20px;
-   background:color-mix(in srgb, var(--secondary-color) 90%, transparent);
+   box-shadow: 4px 4px 10px 2px blue;
   }
 
 
