@@ -40,9 +40,12 @@ a {text-decoration:none;}
    text-decoration:none;
   position:fixed;
   bottom:2vh;
+  box-shadow: 4px 4px 10px 2px blue;
   padding:3vw;}
 
 a:hover {box-shadow: 4px 4px 10px 2px blue;}
+
+#game:hover {box-shadow: 7px 7px 17px 9px blue;}
 
 #contact:hover {box-shadow: 7px 7px 17px 9px blue;}
 
