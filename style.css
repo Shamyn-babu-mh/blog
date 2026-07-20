@@ -2,7 +2,7 @@
 
 
 
-* {
+* {overflow-x: hidden;
 font-family:lekton;
   background:var(--primary-color);
   
@@ -17,24 +17,11 @@ font-family:lekton;
   
 }
 
-#contactScreen {padding:3vw;
-  display:none;
-width:100vw;
-height:100vh;
-background:white;
-}
 
 
-#close {position:fixed;
-top:10px;
-right:0;
-display:none;
-        padding:20px;
-          font-size:20px;
-       box-shadow: 4px 4px 10px 2px blue;
-       background:white;}
 
 #contact {position:fixed;
+  text-decoration:none;
   right:0;
   top:10px;
           padding:20px;
@@ -44,8 +31,7 @@ display:none;
   }
 
 
-.pdf {width:600px;
-     height:300px;}
+
 #game {border-radius:50vw;
    background:white;
    border:1px solid blue;
@@ -59,11 +45,7 @@ a:hover {box-shadow: 4px 4px 10px 2px blue;}
 
 @media only screen and (max-width: 490px) {
 
-  .pdf {
-     margin:0;
-    width:100vw;
-       
-       }
+  
   #game {padding:3vh;
     
      margin:-9px;
