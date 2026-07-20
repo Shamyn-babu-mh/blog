@@ -9,7 +9,7 @@ font-family:lekton;
   
 }
 
-
+a {text-decoration:none;}
 
 :root {
   --primary-color: #f3f6fc;
@@ -21,7 +21,7 @@ font-family:lekton;
 
 
 #contact {position:fixed;
-  text-decoration:none;
+  
   right:0;
   top:10px;
           padding:20px;
@@ -43,11 +43,13 @@ font-family:lekton;
 
 a:hover {box-shadow: 4px 4px 10px 2px blue;}
 
+#contact:hover {box-shadow: 7px 7px 17px 9px blue;}
+
 @media only screen and (max-width: 490px) {
 
   
   #game {padding:3vh;
     
-     margin:-9px;
+     
     }
 }
