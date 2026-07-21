@@ -9,6 +9,11 @@ font-family:lekton;
   
 }
 
+.hightlights {
+   
+             font-size:1.3rem;
+}
+
 a {text-decoration:none;}
 
 :root {
@@ -22,7 +27,7 @@ a {text-decoration:none;}
 
 #contact {position:fixed;
   
-right:2vw;right:2vw;
+right:2vw;
   
           padding:20px;
             bottom:15vh;
