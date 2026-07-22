@@ -5,8 +5,10 @@
 * {overflow-x: hidden;
 font-family:lekton;
   background:var(--primary-color);
-  
-  
+  }
+
+html{
+  scroll-behavior: smooth;
 }
 
 .hightlights {
